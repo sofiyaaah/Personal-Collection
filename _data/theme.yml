@@ -8,9 +8,9 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: Christmas 2021
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 10em # Default is 8em
+home-title-y-padding: 12em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
@@ -18,13 +18,13 @@ home-banner-image-position: # Default is center
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
-browse-buttons: true # true/false, adds previous/next arrows to item pages
+browse-buttons: true 
 
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
-subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
+subjects-fields: subject;creator
+subjects-min: 2  
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
@@ -81,10 +81,10 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#191919"
-link-color: "#0d6efd"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+text-color: "#FFD700"
+link-color: "#6698FF"
+base-font-family: # Roboto
+font-cdn: # <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
