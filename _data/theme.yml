@@ -8,11 +8,11 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: Christmas 2021.jpg
+featured-image: C:\Users\Sophie\Pictures\Saved Pictures\My Youth.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # Default is center
+home-banner-image-position: # center
 
 ##########
 # ITEM PAGE
@@ -23,8 +23,8 @@ browse-buttons: true
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;creator
-subjects-min: 2  
+subjects-fields: subject
+subjects-min: 4  
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
@@ -81,8 +81,8 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#FFD700"
-link-color: "#6698FF"
+text-color: "#151B54"
+link-color: "#347235"
 base-font-family: # Roboto
 font-cdn: # <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
