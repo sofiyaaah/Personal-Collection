@@ -50,7 +50,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: 
+year-navigation: 2021;2022
 year-nav-increment: 2
 
 ##########
@@ -81,7 +81,7 @@ bootswatch: "litera"
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#b3ffb3"
+text-color: "#0000cc"
 link-color: "#347235"
 base-font-family: # Roboto
 font-cdn: # <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
