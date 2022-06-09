@@ -12,7 +12,7 @@ featured-image: objects/Christmas 2021.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # center
+home-banner-image-position: bottom
 
 ##########
 # ITEM PAGE
