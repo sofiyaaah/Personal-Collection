@@ -25,7 +25,7 @@ browse-buttons: true
 #
 subjects-fields: subject
 subjects-min: 4
-subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+subjects-stopwords: Youth Ministry;choirs (music);Family;Mass (Liturgy);Lenten Recollection
 
 ##########
 # LOCATIONS PAGE
