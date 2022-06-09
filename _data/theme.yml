@@ -81,8 +81,8 @@ bootswatch: "litera"
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#0000cc"
-link-color: "#347235"
+text-color: "#000080"
+link-color: "#3366ff"
 base-font-family: # Roboto
 font-cdn: # <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
