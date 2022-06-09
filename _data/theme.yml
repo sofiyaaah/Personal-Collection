@@ -24,7 +24,7 @@ browse-buttons: true
 # SUBJECTS PAGE
 #
 subjects-fields: subject
-subjects-min: 4  
+subjects-min: 4
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
@@ -81,7 +81,7 @@ bootswatch: litera
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#151B54"
+text-color: #b3ffb3
 link-color: "#347235"
 base-font-family: # Roboto
 font-cdn: # <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
